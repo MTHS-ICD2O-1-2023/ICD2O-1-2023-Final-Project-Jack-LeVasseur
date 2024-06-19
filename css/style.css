@@ -17,12 +17,12 @@ body {
   text-align: center;
 }
 
-.choices button {
+.choices {
   padding: 10px 20px;
   margin: 5px;
 }
 
-.result p {
+.page-content-answer {
   font-size: 18px;
   margin: 10px 0;
 }
