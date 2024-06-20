@@ -1,0 +1,28 @@
+/* Created by: Jack
+* Created on: June, 2024
+* This file contains the CSS for index.html
+*/
+
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #0404ec;
+}
+
+.mdl-layout__content {
+  text-align: center;
+}
+
+.choices {
+  padding: 10px 20px;
+  margin: 5px;
+}
+
+.page-content-answer {
+  font-size: 18px;
+  margin: 10px 0;
+}
